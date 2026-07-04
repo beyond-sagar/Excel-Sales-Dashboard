@@ -54,7 +54,7 @@ expansion, is driving the headline growth number.
 **4. Regional Profit Efficiency Gap**
 West led both revenue ($725K) and profit ($108K). 
 But South, despite ranking last in revenue ($391K),
-outpaced Central on profit($46K vs $39K).
+outpaced Central on profit ($46K vs $39K).
 High revenue does not guarantee strong margin,
 Central is the clearest evidence of that.
 
