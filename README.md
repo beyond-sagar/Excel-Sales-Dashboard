@@ -133,8 +133,6 @@ This project demonstrates proficiency in:
 ## 📸 Dashboard Preview
 <img width="1918" height="1017" alt="dashbpard" src="https://github.com/user-attachments/assets/483767a6-31a7-421e-8540-b81356474115" />
 
-![Sales Dashboard](images/dashboard.png)
-
 
 ## How to Use
 
